@@ -1,0 +1,38 @@
+_repo: Consolations-in-Travelor-the-Last-Days-of-a-Philosopher_17882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davy, Humphry, Sir
+    aliases:
+    - Davy, H. (Humphry), Sir
+    - Davy, Humphrey, Sir
+    - Angler
+    birthdate: 1778
+    deathdate: 1829
+    gutenberg_agent_id: '7672'
+    url: http://www.gutenberg.org/2009/agents/7672
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2006-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Davy, Humphry, Sir, 1778-1829'
+- !lcsh 'Chemists -- Great Britain -- Biography'
+title: Consolations in Travel; or, the Last Days of a Philosopher
+url: http://www.gutenberg.org/ebooks/17882
